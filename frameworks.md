@@ -1,8 +1,8 @@
-# {{COURSE_CODE}} - Course Frameworks Reference
+# ISBA 4797 - Course Frameworks Reference
 
 ## Overview
 
-This document provides a quick reference for the key frameworks and models used in {{COURSE_NAME}}.
+This document provides a quick reference for the key frameworks and models used in Capstone Project.
 
 ---
 

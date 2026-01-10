@@ -6,10 +6,10 @@ Settings for configuring your Custom GPT in OpenAI's interface.
 
 ## Basic Information
 
-**Name**: {{COURSE_CODE}} Data Craft
+**Name**: ISBA 4797 Data Craft
 
 **Description**:
-Generate realistic practice datasets for {{COURSE_NAME}} projects. Creates custom datasets with configurable data quality issues for analysis practice.
+Generate realistic practice datasets for Capstone Project projects. Creates custom datasets with configurable data quality issues for analysis practice.
 
 **Instructions**: See `instructions.md`
 
