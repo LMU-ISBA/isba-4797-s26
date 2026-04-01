@@ -68,6 +68,12 @@ Submit a cloud link to a recorded Zoom practice presentation and a publicly acce
 
 Use the same slides link for the final presentation.
 
+### Presentation Schedule
+
+View the full presentation schedule and post your publicly available slides link here: [Presentation Schedule](https://r.isba.co/isba-capstone-presentation-schedule-s26)
+
+We will pull your slides from this link on the presentation room computer, so make sure your link works without a sign-in.
+
 ### Presentation Slides Submission
 
 Submit your slides as a PDF by Wednesday, May 6 at 12:00 PM to the [Google Drive folder](https://r.isba.co/isba-capstone-presentations-2026).
