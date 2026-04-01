@@ -73,6 +73,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Internal docs (superpowers plans/specs)
+docs/
+
 # PyBuilder
 .pybuilder/
 target/
