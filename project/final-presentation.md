@@ -111,20 +111,28 @@ All students are encouraged to attend the graduation luncheon on Wednesday, May 
 
 ---
 
+## Delivery Policy
+
+You must present from knowledge, not from a script. Reading from a phone, tablet, index card, or any other aid during your presentation will result in a one letter grade deduction on your final presentation grade.
+
+Glancing at your slides to stay on track is fine. Reading verbatim from anything is not. Know your material well enough to talk about it naturally — the way you would explain your project to someone at a networking event.
+
+---
+
 ## Content Requirements
 
 ### Introduction (2-3 min)
 
-Engage the audience without introducing yourself immediately. Use a hook: a question, fact, statistic, quote, or short story.
+**Open with a hook.** Start with something that makes the audience pay attention before you introduce yourself: a surprising fact, a question, a short story, or a bold claim. The first 30 seconds determine whether the room is with you or checking their phones.
 
 Introduce yourself when it is your turn to speak.
 
-**Elevator Pitch** — one sentence covering:
+**Elevator pitch** — in one sentence, cover:
 - Who are you helping?
 - What problem are you solving?
-- How will you solve that problem?
+- How are you solving it?
 
-**ISBA Subfields** — List the 3 ISBA subfields involved in your project and briefly describe how each applies. Choose from:
+**ISBA subfields** — Display your 3 ISBA subfields as visual tags on your title slide or elevator pitch slide (e.g., badges, icons, or a small footer). Do not narrate them here — you will demonstrate them naturally during your solution and demo. Choose from:
 
 1. Project & Product Management
 2. Business Analytics
@@ -137,51 +145,86 @@ Introduce yourself when it is your turn to speak.
 9. UI/UX Design
 10. Database Management
 
-### Target User, Problem, Solution, Demo (7-10 min)
+### Problem & Stakes (2-3 min)
 
-Use a methodology as a loose reference to explain the different stages of your project. You can use a hybrid methodology or another well-known methodology.
+Make the audience feel the problem before you solve it. This is the "before" picture.
 
-- **Analytics:** CRISP-DM or the 5-Step Analytics Framework
-- **Information System / Web Development:** SDLC
+**Who is affected?**
+- B2B: Name the business, their industry, and what they do. Who specifically inside that organization feels this pain?
+- B2C: Describe the real people you are serving — not just demographics, but what their day looks like when this problem hits.
 
-**Target Customer/User/Client (1 min)**
+**What is broken and why does it matter?**
+- What is the problem and why does it exist?
+- What does it cost — in time, money, frustration, or missed opportunity?
+- How do they deal with it today? (This is often the most compelling part — the workaround is usually worse than the problem itself.)
 
-- B2B: Include the business name, industry, and products/services they provide. Identify the target customer.
-- B2C: Describe the target user demographics and psychographics. Describe the specific customer segment you aim to serve.
+**Translate technical complexity for a general audience.** If your problem involves something technical, explain it the way you would to a smart friend who does not work in tech. Do not lose the substance. Lose the jargon.
 
-**Problem (1-2 min)**
+### Solution & Demo (5-7 min)
 
-- What problem are you solving?
-- Why does this problem exist? Why has it not been addressed?
-- How does this affect the customer?
-- How does the customer solve the problem now?
-- What is the resource cost of this problem? How much time or money is wasted?
-- Describe the "before" state.
+This is the "after" picture. Show the audience what changes because your project exists.
 
-**Solution / Demo (5-7 min)**
+**Briefly mention any significant alternatives you explored but did not implement.** One or two sentences, enough to show you made a deliberate choice, not that you picked the first thing that worked.
 
-- Briefly mention any significant alternative solutions you explored but did not implement.
-- The demo must be interactive. Limit the number of screenshots.
-- Conclude by explaining how the solution helps the business.
-- Describe the "after" state as a result of your solution.
+**Demo your solution live.** The demo must be interactive — click through it, run it, show it working. Limit screenshots to what you genuinely cannot show live. If something can move, make it move.
 
-### Next Steps / Future Improvements (1 min)
+**Weave in your ISBA subfields as you go.** When you reach a part of the demo that draws on one of your subfields, call it out naturally:
 
-### Conclusion (2-3 min)
+> "This is where the data science side of the project comes in — we trained a classification model on 18 months of intake data."
 
-Use a separate slide for each point below:
+Do not pause the demo to list subfields. Let the audience see your range of skills through the work itself.
 
-**1 Significant Challenge Solved (1 min)** — One slide, one challenge. Be specific and concrete, not generic.
+**Connect the solution back to the problem.** End this section by making the before/after contrast explicit. What was true before your project, and what is true now? If you can quantify the impact (time saved, errors reduced, revenue enabled), do it.
 
-**1 Lesson Learned (1 min)** — Something your future self or a junior would actually find useful. No "communication is important" or "teamwork matters" — say something only you could say after doing this project.
+**Keep technical explanations accessible.** You can go deep on technical decisions, but always bring it back to language a non-technical audience member can follow. The skill is translating complexity, not avoiding it.
 
-**Closing Slide** — The last slide should not be a "Thank you" or "Questions?" slide. End with one of the following:
+### Key Decisions (2-3 min)
+
+Every project hits moments where you have to choose a direction. Highlight 1-2 key decisions, pivots, or tradeoffs you made during the project.
+
+For each one, cover:
+- **What you were facing** — the situation or constraint that forced a decision
+- **What options you considered** — show that you thought through alternatives
+- **Why you chose the path you did** — and what you gained or gave up
+
+This is where the audience learns how you think, not just what you built. A stakeholder or future employer listening to this section should come away thinking you can make good decisions when things are not clear.
+
+These do not have to be dramatic pivots. A deliberate choice to use one tool over another, a scope decision that shaped the final product, or a moment where user feedback changed your direction all count, as long as you can explain the reasoning behind it.
+
+### Reflection (1-2 min)
+
+**What I Know Now That I Didn't Before**
+
+One slide. One honest answer to the question: what do you know now that you did not know when you started this project?
+
+This should be something specific that only you could say after doing this work. Not "communication is important" or "time management was hard." Something your future self, or a junior starting a similar project next semester, would actually find useful.
+
+**Examples of strong reflections:**
+- "I assumed users would interact with the dashboard the way I designed it. Watching real users ignore the feature I spent the most time on taught me to test with people before building."
+- "I did not realize how much of data science is data cleaning. The model took two weeks. Getting the data ready took two months."
+
+**Examples of weak reflections:**
+- "I learned that teamwork is essential."
+- "Planning ahead is really important."
+
+The difference: strong reflections are earned. You can tell the person lived through something. Weak reflections could be said by anyone about any project.
+
+### Closing Slide
+
+Your last slide is what the audience sees during Q&A and what lingers after you stop talking. Make it count. Do not end with a "Thank You" or "Questions?" slide.
+
+End with one of the following:
 
 - **Key Takeaways:** The 2-3 things you want the audience to walk away remembering.
-- **Next Steps:** What happens next with this project? Be specific.
-- **Discussion Points:** An open-ended question that gets people talking.
+- **Next Steps:** What specifically happens next with this project? Be concrete.
+- **Discussion Point:** An open-ended question that gets the room talking.
 - **Call to Action:** Something you want the audience to actually do.
 - **Quote or Insight:** A quote that captures what this project is really about.
+
+**Resources:**
+- [Should I Begin or End with My Recommendation?](https://www.storytellingwithdata.com/blog/should-i-begin-or-end-with-my-recommendation) — Storytelling with Data (5 min read)
+- [The Secret Structure of Great Talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) — Nancy Duarte, TED Talk (18 min watch)
+- [How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation) — Chris Anderson / HBR
 
 ### Q&A (5 min)
 
