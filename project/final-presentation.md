@@ -97,7 +97,17 @@ Time limits are tiered based on team size:
 | 1-2 members | 10 minutes | 5 minutes | 15 minutes |
 | 3-5 members | 15 minutes | 5 minutes | 20 minutes |
 
-You will receive a 1-minute warning. Presentations will have a hard stop at the time limit.
+**Suggested timing by section:**
+
+| Section | 1-2 Members | 3-5 Members |
+|---------|-------------|-------------|
+| Introduction | 1-2 min | 2-3 min |
+| Problem & Stakes | 1-2 min | 2-3 min |
+| Solution & Demo | 4-5 min | 5-7 min |
+| Key Decisions | 1-2 min | 2-3 min |
+| Reflection | 1 min | 1-2 min |
+
+You will receive a non-verbal 1-minute warning (a raised hand or card). Presentations have a hard stop at the time limit. Your advisor will transition the room to Q&A. Practice with a timer so this never surprises you.
 
 ---
 
