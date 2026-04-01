@@ -46,7 +46,7 @@ Glancing at your slides to stay on track is fine. Reading verbatim from anything
 
 ### 2. Introduction (2-3 min)
 
-**Open with a hook.** Start with something that makes the audience pay attention before you introduce yourself — a surprising fact, a question, a short story, or a bold claim. The first 30 seconds determine whether the room is with you or checking their phones.
+**Open with a hook.** Start with something that makes the audience pay attention before you introduce yourself: a surprising fact, a question, a short story, or a bold claim. The first 30 seconds determine whether the room is with you or checking their phones.
 
 **Introduce yourself** when it is your turn to speak.
 
@@ -81,13 +81,13 @@ Make the audience feel the problem before you solve it. This is the "before" pic
 - What does it cost — in time, money, frustration, or missed opportunity?
 - How do they deal with it today? (This is often the most compelling part — the workaround is usually worse than the problem itself.)
 
-**Translate technical complexity for a general audience.** If your problem involves something technical, explain it the way you would to a smart friend who does not work in tech. Do not lose the substance — lose the jargon.
+**Translate technical complexity for a general audience.** If your problem involves something technical, explain it the way you would to a smart friend who does not work in tech. Do not lose the substance. Lose the jargon.
 
 ### 4. Solution & Demo (5-7 min)
 
 This is the "after" picture. Show the audience what changes because your project exists.
 
-**Briefly mention any significant alternatives you explored but did not implement.** One or two sentences — enough to show you made a deliberate choice, not that you picked the first thing that worked.
+**Briefly mention any significant alternatives you explored but did not implement.** One or two sentences, enough to show you made a deliberate choice, not that you picked the first thing that worked.
 
 **Demo your solution live.** The demo must be interactive — click through it, run it, show it working. Limit screenshots to what you genuinely cannot show live. If something can move, make it move.
 
@@ -97,9 +97,9 @@ This is the "after" picture. Show the audience what changes because your project
 
 Do not pause the demo to list subfields. Let the audience see your range of skills through the work itself.
 
-**Connect the solution back to the problem.** End this section by making the before/after contrast explicit — what was true before your project, and what is true now? If you can quantify the impact (time saved, errors reduced, revenue enabled), do it.
+**Connect the solution back to the problem.** End this section by making the before/after contrast explicit. What was true before your project, and what is true now? If you can quantify the impact (time saved, errors reduced, revenue enabled), do it.
 
-**Keep technical explanations accessible.** You can go deep on technical decisions, but always bring it back to language a non-technical audience member can follow. The skill is not avoiding complexity — it is translating it.
+**Keep technical explanations accessible.** You can go deep on technical decisions, but always bring it back to language a non-technical audience member can follow. The skill is translating complexity, not avoiding it.
 
 ### 5. Key Decisions (2-3 min)
 
@@ -110,17 +110,17 @@ For each one, cover:
 - **What options you considered** — show that you thought through alternatives
 - **Why you chose the path you did** — and what you gained or gave up
 
-This is where the audience learns how you think, not just what you built. A stakeholder or future employer listening to this section should come away thinking you can navigate ambiguity and make sound calls under pressure.
+This is where the audience learns how you think, not just what you built. A stakeholder or future employer listening to this section should come away thinking you can make good decisions when things are not clear.
 
-These do not have to be dramatic pivots. A deliberate choice to use one tool over another, a scope decision that shaped the final product, or a moment where user feedback changed your direction all count — as long as you can explain the reasoning behind it.
+These do not have to be dramatic pivots. A deliberate choice to use one tool over another, a scope decision that shaped the final product, or a moment where user feedback changed your direction all count, as long as you can explain the reasoning behind it.
 
 ### 6. Reflection (1-2 min)
 
 **What I Know Now That I Didn't Before**
 
-One slide. One honest answer to the question: What do you know now that you did not know when you started this project?
+One slide. One honest answer to the question: what do you know now that you did not know when you started this project?
 
-This should be something specific that only you could say after doing this work. Not "communication is important" or "time management was hard." Something your future self — or a junior starting a similar project next semester — would actually find useful.
+This should be something specific that only you could say after doing this work. Not "communication is important" or "time management was hard." Something your future self, or a junior starting a similar project next semester, would actually find useful.
 
 **Examples of strong reflections:**
 - "I assumed users would interact with the dashboard the way I designed it. Watching real users ignore the feature I spent the most time on taught me to test with people before building."
@@ -130,7 +130,7 @@ This should be something specific that only you could say after doing this work.
 - "I learned that teamwork is essential."
 - "Planning ahead is really important."
 
-The difference: strong reflections are earned — you can tell the person lived through something. Weak reflections could be said by anyone about any project.
+The difference: strong reflections are earned. You can tell the person lived through something. Weak reflections could be said by anyone about any project.
 
 ### 7. Closing Slide
 
@@ -185,7 +185,7 @@ Time limits are tiered based on team size:
 | Key Decisions | 1-2 min | 2-3 min |
 | Reflection | 1 min | 1-2 min |
 
-You will receive a non-verbal 1-minute warning (a raised hand or card). Presentations have a hard stop at the time limit — your advisor will transition the room to Q&A. Practice with a timer so this never surprises you.
+You will receive a non-verbal 1-minute warning (a raised hand or card). Presentations have a hard stop at the time limit. Your advisor will transition the room to Q&A. Practice with a timer so this never surprises you.
 
 ---
 
