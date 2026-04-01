@@ -243,7 +243,6 @@ End with one of the following:
 ## Visual Aids
 
 - Use a slide template.
-- Write slide titles that tell the audience something, not just label the slide.
 - Provide a relevant image for every slide. A graph or diagram counts as an image.
 - Aim for one line of text and one image per slide. Even better, just one image.
 
@@ -255,6 +254,23 @@ End with one of the following:
 4. Avoid more than **5** consecutive text-heavy slides
 
 Use transitions for text, especially bullet points. Do not show all text at once.
+
+### Slide Titles
+
+Every slide title should communicate a takeaway, prompt an action, or share an insight. Do not use generic label titles.
+
+| Generic Label | Takeaway / Action / Insight |
+|---|---|
+| Background | Manual data entry costs the department 20 hours per week |
+| Problem Statement | The current process breaks down when volume exceeds 500 records |
+| Solution | Automate the intake pipeline to eliminate manual errors |
+| Demo | Watch the dashboard update in real time as new data flows in |
+| Next Steps | Three features away from a production-ready launch |
+| Lessons Learned | Test with real users before you build, not after |
+
+A good test: if your slide title could appear on any project's presentation, it is too generic. Rewrite it until it could only belong to yours.
+
+**Resource:** [Transforming Slide Titles](https://www.storytellingwithdata.com/blog/2020/3/5/transforming-slide-titles) — Storytelling with Data
 
 ---
 
