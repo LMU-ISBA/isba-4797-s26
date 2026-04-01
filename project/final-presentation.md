@@ -277,4 +277,4 @@ A good test: if your slide title could appear on any project's presentation, it 
 ## Resources
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.storytellingwithdata.com/)
-- Apply the presentation tips from Garr Reynolds, author of *Presentation Zen: Simple Ideas on Presentation Design and Delivery*: Prepare, Design, Deliver
+- [Presentation Zen: Simple Ideas on Presentation Design and Delivery](https://presentationzen.com/) — Garr Reynolds
