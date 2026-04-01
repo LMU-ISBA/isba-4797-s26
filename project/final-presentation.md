@@ -78,7 +78,7 @@ We will pull your slides from this link on the presentation room computer, so ma
 
 Submit your slides as a PDF by Wednesday, May 6 at 12:00 PM to the [Google Drive folder](https://r.isba.co/isba-capstone-presentations-2026).
 
-**Naming convention:** `Capstone_Presentation_Project_Name.pdf` (replace Project_Name with your project name)
+**Naming convention:** `Capstone_Presentation_Project_Name.pdf` (replace Project_Name with your project name). If your project doesn't have a name, use your last name (e.g., `Capstone_Presentation_Smith.pdf`).
 
 ---
 
