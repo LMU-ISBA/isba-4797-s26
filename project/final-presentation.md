@@ -118,7 +118,18 @@ Introduce yourself when it is your turn to speak.
 - What problem are you solving?
 - How will you solve that problem?
 
-**ISBA Subfields** — List the 3 ISBA subfields involved in your project and briefly describe how each applies.
+**ISBA Subfields** — List the 3 ISBA subfields involved in your project and briefly describe how each applies. Choose from:
+
+1. Project & Product Management
+2. Business Analytics
+3. Data Science
+4. AI / Machine Learning
+5. Data Engineering
+6. Software Development
+7. Cloud Computing & DevOps
+8. Cybersecurity
+9. UI/UX Design
+10. Database Management
 
 ### Target User, Problem, Solution, Demo (7-10 min)
 
