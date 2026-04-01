@@ -36,7 +36,7 @@ All students are encouraged to attend the graduation luncheon on Wednesday, May 
 
 **7 presentations | ~2 hrs 40 min total**
 
-### Day 3: Wednesday, May 6 - Capstone Showcase | 11:50 AM - 1:35 PM | Hilton 113/115
+### Day 3: Wednesday, May 6 - Capstone Showcase | 11:50 AM - 1:35 PM | Hilton 115
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
