@@ -36,7 +36,7 @@ All students are encouraged to attend the graduation luncheon on Wednesday, May 
 
 **7 presentations | ~2 hrs 40 min total**
 
-### Day 3: Wednesday, May 6 — Capstone Showcase | 11:50 AM - 1:35 PM | Hilton 113/115
+### Day 3: Wednesday, May 6 - Capstone Showcase | 11:50 AM - 1:35 PM | Hilton 113/115
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
@@ -48,7 +48,7 @@ All students are encouraged to attend the graduation luncheon on Wednesday, May 
 
 **5 presentations | ~1 hr 45 min total**
 
-**1:35 PM — Graduation Luncheon | Hilton Lobby**
+**1:35 PM - Graduation Luncheon | Hilton Lobby**
 
 ---
 
@@ -125,7 +125,7 @@ All students are encouraged to attend the graduation luncheon on Wednesday, May 
 
 You must present from knowledge, not from a script. Reading from a phone, tablet, index card, or any other aid during your presentation will result in a one letter grade deduction on your final presentation grade.
 
-Glancing at your slides to stay on track is fine. Reading verbatim from anything is not. Know your material well enough to talk about it naturally — the way you would explain your project to someone at a networking event.
+Glancing at your slides to stay on track is fine. Reading verbatim from anything is not. Know your material well enough to talk about it naturally, the way you would explain your project to someone at a networking event.
 
 ---
 
@@ -137,12 +137,12 @@ Glancing at your slides to stay on track is fine. Reading verbatim from anything
 
 Introduce yourself when it is your turn to speak.
 
-**Elevator pitch** — in one sentence, cover:
+**Elevator pitch:** in one sentence, cover:
 - Who are you helping?
 - What problem are you solving?
 - How are you solving it?
 
-**ISBA subfields** — Display your 3 ISBA subfields as visual tags on your title slide or elevator pitch slide (e.g., badges, icons, or a small footer). Do not narrate them here — you will demonstrate them naturally during your solution and demo. Choose from:
+**ISBA subfields:** Display your 3 ISBA subfields as visual tags on your title slide or elevator pitch slide (e.g., badges, icons, or a small footer). Do not narrate them here. You will demonstrate them naturally during your solution and demo. Choose from:
 
 1. Project & Product Management
 2. Business Analytics
@@ -161,12 +161,12 @@ Make the audience feel the problem before you solve it. This is the "before" pic
 
 **Who is affected?**
 - B2B: Name the business, their industry, and what they do. Who specifically inside that organization feels this pain?
-- B2C: Describe the real people you are serving — not just demographics, but what their day looks like when this problem hits.
+- B2C: Describe the real people you are serving, not just demographics, but what their day looks like when this problem hits.
 
 **What is broken and why does it matter?**
 - What is the problem and why does it exist?
-- What does it cost — in time, money, frustration, or missed opportunity?
-- How do they deal with it today? (This is often the most compelling part — the workaround is usually worse than the problem itself.)
+- What does it cost in time, money, frustration, or missed opportunity?
+- How do they deal with it today? (This is often the most compelling part. The workaround is usually worse than the problem itself.)
 
 **Translate technical complexity for a general audience.** If your problem involves something technical, explain it the way you would to a smart friend who does not work in tech. Do not lose the substance. Lose the jargon.
 
@@ -176,11 +176,11 @@ This is the "after" picture. Show the audience what changes because your project
 
 **Briefly mention any significant alternatives you explored but did not implement.** One or two sentences, enough to show you made a deliberate choice, not that you picked the first thing that worked.
 
-**Demo your solution live.** The demo must be interactive — click through it, run it, show it working. Limit screenshots to what you genuinely cannot show live. If something can move, make it move.
+**Demo your solution live.** The demo must be interactive. Click through it, run it, show it working. Limit screenshots to what you genuinely cannot show live. If something can move, make it move.
 
 **Weave in your ISBA subfields as you go.** When you reach a part of the demo that draws on one of your subfields, call it out naturally:
 
-> "This is where the data science side of the project comes in — we trained a classification model on 18 months of intake data."
+> "This is where the data science side of the project comes in. We trained a classification model on 18 months of intake data."
 
 Do not pause the demo to list subfields. Let the audience see your range of skills through the work itself.
 
@@ -193,9 +193,9 @@ Do not pause the demo to list subfields. Let the audience see your range of skil
 Every project hits moments where you have to choose a direction. Highlight 1-2 key decisions, pivots, or tradeoffs you made during the project.
 
 For each one, cover:
-- **What you were facing** — the situation or constraint that forced a decision
-- **What options you considered** — show that you thought through alternatives
-- **Why you chose the path you did** — and what you gained or gave up
+- **What you were facing:** the situation or constraint that forced a decision
+- **What options you considered:** show that you thought through alternatives
+- **Why you chose the path you did:** and what you gained or gave up
 
 This is where the audience learns how you think, not just what you built. A stakeholder or future employer listening to this section should come away thinking you can make good decisions when things are not clear.
 
@@ -232,9 +232,9 @@ End with one of the following:
 - **Quote or Insight:** A quote that captures what this project is really about.
 
 **Resources:**
-- [Should I Begin or End with My Recommendation?](https://www.storytellingwithdata.com/blog/should-i-begin-or-end-with-my-recommendation) — Storytelling with Data (5 min read)
-- [The Secret Structure of Great Talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) — Nancy Duarte, TED Talk (18 min watch)
-- [How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation) — Chris Anderson / HBR
+- [Should I Begin or End with My Recommendation?](https://www.storytellingwithdata.com/blog/should-i-begin-or-end-with-my-recommendation), Storytelling with Data (5 min read)
+- [The Secret Structure of Great Talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks), Nancy Duarte, TED Talk (18 min watch)
+- [How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation), Chris Anderson / HBR
 
 ### Q&A (5 min)
 
@@ -270,11 +270,11 @@ Every slide title should communicate a takeaway, prompt an action, or share an i
 
 A good test: if your slide title could appear on any project's presentation, it is too generic. Rewrite it until it could only belong to yours.
 
-**Resource:** [Transforming Slide Titles](https://www.storytellingwithdata.com/blog/2020/3/5/transforming-slide-titles) — Storytelling with Data
+**Resource:** [Transforming Slide Titles](https://www.storytellingwithdata.com/blog/2020/3/5/transforming-slide-titles), Storytelling with Data
 
 ---
 
 ## Resources
 
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.storytellingwithdata.com/)
-- [Presentation Zen: Simple Ideas on Presentation Design and Delivery](https://presentationzen.com/) — Garr Reynolds
+- [Presentation Zen: Simple Ideas on Presentation Design and Delivery](https://presentationzen.com/), Garr Reynolds
