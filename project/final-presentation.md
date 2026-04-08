@@ -4,20 +4,19 @@
 
 Presentations take place over three days. Attendance is mandatory for all presentations on the day you are presenting. If you miss any presentations on your assigned day, your Sprint 03 grade will drop one letter grade.
 
-### Day 1: Wednesday, April 29 | 11:50 AM - 3:25 PM | Hilton 106
+### Day 1: Wednesday, April 29 | 11:50 AM - 2:00 PM | Hilton 106
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
 | 11:50 AM | Andrew Winter | 1 | Lontok |
 | 12:10 PM | Leo Chan | 1 | Lontok |
-| 12:30 PM | Lauren Reyes | 1 | Mukherjee |
-| 12:50 PM | Timothy O'Hara | 1 | Mukherjee |
-| *1:10 PM* | *Break (10 min)* | | |
-| 1:20 PM | Rachel McDonald | 1 | Mukherjee |
-| 1:40 PM | Academic Advisor Chatbot | 2 | Lontok |
-| 2:00 PM | Family Business Lead Generation | 3 | Mukherjee |
+| 12:30 PM | Timothy O'Hara | 1 | Mukherjee |
+| *12:50 PM* | *Break (10 min)* | | |
+| 1:00 PM | Rachel McDonald | 1 | Mukherjee |
+| 1:20 PM | Academic Advisor Chatbot | 2 | Lontok |
+| 1:40 PM | Family Business Lead Generation | 3 | Mukherjee |
 
-**7 presentations | ~2 hrs 30 min total**
+**6 presentations | ~2 hrs 10 min total**
 
 ### Day 2: Thursday, April 30 | 9:00 AM - 11:40 AM | Hilton 106
 
@@ -34,17 +33,18 @@ Presentations take place over three days. Attendance is mandatory for all presen
 
 **7 presentations | ~2 hrs 40 min total**
 
-### Day 3: Friday, May 1 - Capstone Showcase | 10:35 AM - 12:00 PM | Hilton 115
+### Day 3: Friday, May 1 - Capstone Showcase | 10:20 AM - 12:00 PM | Hilton 115
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
-| 10:35 AM | Pacific Horizon | 2 | Lontok |
+| 10:20 AM | Pacific Horizon | 2 | Lontok |
+| 10:35 AM | Lauren Reyes | 1 | Mukherjee |
 | 10:50 AM | LMU Baseball | 2 | Lontok |
 | 11:05 AM | Data Journalism | 2 | Lontok |
 | 11:20 AM | TBD (Mukherjee's pick) | TBD | Mukherjee |
 | 11:40 AM | Irene G | 5 | Lontok |
 
-**5 presentations | ~1 hr 25 min total**
+**6 presentations | ~1 hr 40 min total**
 
 **12:15 PM - Lunch**
 
