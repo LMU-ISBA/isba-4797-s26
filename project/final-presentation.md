@@ -4,9 +4,7 @@
 
 Presentations take place over three days. Attendance is mandatory for all presentations on the day you are presenting. If you miss any presentations on your assigned day, your Sprint 03 grade will drop one letter grade.
 
-All students are encouraged to attend the graduation luncheon on Wednesday, May 6 following the Showcase presentations.
-
-### Day 1: Monday, May 4 | 11:50 AM - 2:20 PM | Hilton 106
+### Day 1: Wednesday, April 29 | 11:50 AM - 3:25 PM | Hilton 106
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
@@ -21,7 +19,7 @@ All students are encouraged to attend the graduation luncheon on Wednesday, May 
 
 **7 presentations | ~2 hrs 30 min total**
 
-### Day 2: Tuesday, May 5 | 9:00 AM - 11:40 AM | Hilton 106
+### Day 2: Thursday, April 30 | 9:00 AM - 11:40 AM | Hilton 106
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
@@ -36,19 +34,19 @@ All students are encouraged to attend the graduation luncheon on Wednesday, May 
 
 **7 presentations | ~2 hrs 40 min total**
 
-### Day 3: Wednesday, May 6 - Capstone Showcase | 11:50 AM - 1:35 PM | Hilton 115
+### Day 3: Friday, May 1 - Capstone Showcase | 10:35 AM - 12:00 PM | Hilton 115
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
-| 11:50 AM | Pacific Horizon | 2 | Lontok |
-| 12:10 PM | LMU Baseball | 2 | Lontok |
-| 12:30 PM | Data Journalism | 2 | Lontok |
-| 12:50 PM | TBD (Mukherjee's pick) | TBD | Mukherjee |
-| 1:10 PM | Irene G | 5 | Lontok |
+| 10:35 AM | Pacific Horizon | 2 | Lontok |
+| 10:50 AM | LMU Baseball | 2 | Lontok |
+| 11:05 AM | Data Journalism | 2 | Lontok |
+| 11:20 AM | TBD (Mukherjee's pick) | TBD | Mukherjee |
+| 11:40 AM | Irene G | 5 | Lontok |
 
-**5 presentations | ~1 hr 45 min total**
+**5 presentations | ~1 hr 25 min total**
 
-**1:35 PM - Graduation Luncheon | Hilton Lobby**
+**12:15 PM - Lunch**
 
 ---
 
@@ -56,13 +54,13 @@ All students are encouraged to attend the graduation luncheon on Wednesday, May 
 
 | Deliverable | % of Sprint 03 | % of Total Grade | Deadline |
 |-------------|----------------|------------------|----------|
-| Practice Presentation | 15% | 6% | Week of Apr 27 - May 2 |
-| Final Presentation | 25% | 10% | May 4, 5, or 6 (your assigned day) |
-| Presentation Slides (PDF) | 10% | 4% | Wed, May 6 at 12:00 PM |
+| Practice Presentation | 15% | 6% | Week of Apr 20 - 25 |
+| Final Presentation | 25% | 10% | Apr 29, 30, or May 1 (your assigned day) |
+| Presentation Slides (PDF) | 10% | 4% | Wed, Apr 29 at 11:00 AM |
 
 ### Practice Presentation
 
-For Prof. Lontok's capstone advisees, schedule a 45-minute Zoom meeting for a practice run during the week of April 27 - May 2. Regular weekly meetings will not occur during the weeks of practice and final presentations.
+For Prof. Lontok's capstone advisees, schedule a 45-minute Zoom meeting for a practice run during the week of April 20 - 25. Regular weekly meetings will not occur during the weeks of practice and final presentations.
 
 Submit a cloud link to a recorded Zoom practice presentation and a publicly accessible link to your slides to your assigned Teams channel before your scheduled practice session. Copy the shareable links Zoom emails you when each cloud recording is ready. You can also access the links at https://lmula.zoom.us/.
 
@@ -76,7 +74,7 @@ We will pull your slides from this link on the presentation room computer, so ma
 
 ### Presentation Slides Submission
 
-Submit your slides as a PDF by Wednesday, May 6 at 12:00 PM to the [Google Drive folder](https://r.isba.co/isba-capstone-presentations-2026).
+Submit your slides as a PDF by Wednesday, April 29 at 11:00 AM to the [Google Drive folder](https://r.isba.co/isba-capstone-presentations-2026).
 
 **Naming convention:** `Capstone_Presentation_Project_Name.pdf` (replace Project_Name with your project name). If your project doesn't have a name, use your last name (e.g., `Capstone_Presentation_Smith.pdf`).
 
@@ -116,8 +114,6 @@ You will receive a non-verbal 1-minute warning (a raised hand or card). Presenta
 You must attend all presentations on the day you are presenting. If you miss any presentations on your assigned day, your Sprint 03 grade will drop one letter grade (e.g., A to B).
 
 If you have a conflict with part of your presentation day, notify your advisor at least 48 hours in advance to discuss accommodations.
-
-All students are encouraged to attend the graduation luncheon on Wednesday, May 6 following the Showcase presentations.
 
 ---
 
