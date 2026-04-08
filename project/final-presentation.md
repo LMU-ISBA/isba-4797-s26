@@ -11,7 +11,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 | 11:50 AM | Andrew Winter | 1 | Lontok |
 | 12:10 PM | Leo Chan | 1 | Lontok |
 | 12:30 PM | Lauren Reyes | 1 | Mukherjee |
-| 12:50 PM | Valeria Sanz Jones | 1 | Mukherjee |
+| 12:50 PM | Timothy O'Hara | 1 | Mukherjee |
 | *1:10 PM* | *Break (10 min)* | | |
 | 1:20 PM | Rachel McDonald | 1 | Mukherjee |
 | 1:40 PM | Academic Advisor Chatbot | 2 | Lontok |
@@ -25,7 +25,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 |------|---------|-----------|---------|
 | 9:00 AM | Phoebe Till | 1 | Lontok |
 | 9:20 AM | Denzel Tate | 1 | Mukherjee |
-| 9:40 AM | Timothy O'Hara | 1 | Mukherjee |
+| 9:40 AM | Valeria Sanz Jones | 1 | Mukherjee |
 | 10:00 AM | Profaci & Hall | 2 | Mukherjee |
 | *10:20 AM* | *Break (10 min)* | | |
 | 10:30 AM | Wyndo | 5 | Lontok |
