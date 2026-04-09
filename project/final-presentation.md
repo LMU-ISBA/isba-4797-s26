@@ -18,7 +18,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 
 **6 presentations | ~2 hrs 10 min total**
 
-### Day 2: Thursday, April 30 | 9:00 AM - 11:40 AM | Hilton 106
+### Day 2: Thursday, April 30 | 9:00 AM - 11:15 AM | Hilton 106
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
@@ -28,10 +28,9 @@ Presentations take place over three days. Attendance is mandatory for all presen
 | 10:00 AM | Profaci & Hall | 2 | Mukherjee |
 | *10:20 AM* | *Break (10 min)* | | |
 | 10:30 AM | Wyndo | 5 | Lontok |
-| 10:55 AM | Finance Dept Research & Job Placement | 4 | Mukherjee |
-| 11:20 AM | Presentation Coach | 3 | Mukherjee |
+| 10:55 AM | Presentation Coach | 3 | Mukherjee |
 
-**7 presentations | ~2 hrs 40 min total**
+**6 presentations | ~2 hrs 15 min total**
 
 ### Day 3: Friday, May 1 - Capstone Showcase | 10:20 AM - 12:00 PM | Hilton 115
 
@@ -41,7 +40,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 | 10:35 AM | Lauren Reyes | 1 | Mukherjee |
 | 10:50 AM | LMU Baseball | 2 | Lontok |
 | 11:05 AM | Data Journalism | 2 | Lontok |
-| 11:20 AM | TBD (Mukherjee's pick) | TBD | Mukherjee |
+| 11:20 AM | Finance Dept Research & Job Placement | 4 | Mukherjee |
 | 11:40 AM | Irene G | 5 | Lontok |
 
 **6 presentations | ~1 hr 40 min total**
