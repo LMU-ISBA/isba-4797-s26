@@ -4,7 +4,7 @@
 
 Presentations take place over three days. Attendance is mandatory for all presentations on the day you are presenting. If you miss any presentations on your assigned day, your Sprint 03 grade will drop one letter grade.
 
-### Day 1: Wednesday, April 29 | 11:50 AM - 2:00 PM | Hilton 106
+### Day 1: Wednesday, April 29 | 11:50 AM - 2:00 PM | Hilton 234
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
@@ -18,7 +18,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 
 **6 presentations | ~2 hrs 10 min total**
 
-### Day 2: Thursday, April 30 | 9:00 AM - 11:15 AM | Hilton 106
+### Day 2: Thursday, April 30 | 9:00 AM - 11:15 AM | Hilton 258
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
