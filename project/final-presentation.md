@@ -8,9 +8,9 @@ Presentations take place over three days. Attendance is mandatory for all presen
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
-| 11:50 AM | Andrew Winter | 1 | Lontok |
+| 11:50 AM | Timothy O'Hara | 1 | Lontok |
 | 12:10 PM | Leo Chan | 1 | Lontok |
-| 12:30 PM | Timothy O'Hara | 1 | Mukherjee |
+| 12:30 PM | Andrew Winter | 1 | Mukherjee |
 | *12:50 PM* | *Break (10 min)* | | |
 | 1:00 PM | Denzel Tate | 1 | Mukherjee |
 | 1:20 PM | Academic Advisor Chatbot | 2 | Lontok |
