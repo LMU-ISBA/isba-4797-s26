@@ -45,7 +45,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 
 **6 presentations | ~1 hr 40 min total**
 
-**12:15 PM - Lunch**
+**12:15 PM - 1:00 PM | Graduation Luncheon | Hilton Third-Floor Foyer**
 
 ---
 
@@ -113,6 +113,8 @@ You will receive a non-verbal 1-minute warning (a raised hand or card). Presenta
 You must attend all presentations on the day you are presenting. If you miss any presentations on your assigned day, your Sprint 03 grade will drop one letter grade (e.g., A to B).
 
 If you have a conflict with part of your presentation day, notify your advisor at least 48 hours in advance to discuss accommodations.
+
+All students are encouraged to attend the graduation luncheon on Friday, May 1 from 12:15 PM to 1:00 PM in the Hilton Third-Floor Foyer. Students will receive their graduation stoles at the luncheon.
 
 ---
 
