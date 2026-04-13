@@ -12,7 +12,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 | 12:10 PM | Leo Chan | 1 | Lontok |
 | 12:30 PM | Timothy O'Hara | 1 | Mukherjee |
 | *12:50 PM* | *Break (10 min)* | | |
-| 1:00 PM | Rachel McDonald | 1 | Mukherjee |
+| 1:00 PM | Denzel Tate | 1 | Mukherjee |
 | 1:20 PM | Academic Advisor Chatbot | 2 | Lontok |
 | 1:40 PM | Family Business Lead Generation | 3 | Mukherjee |
 
@@ -23,7 +23,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
 | 9:00 AM | Phoebe Till | 1 | Lontok |
-| 9:20 AM | Denzel Tate | 1 | Mukherjee |
+| 9:20 AM | Rachel McDonald | 1 | Mukherjee |
 | 9:40 AM | Valeria Sanz Jones | 1 | Mukherjee |
 | 10:00 AM | Profaci & Hall | 2 | Mukherjee |
 | *10:20 AM* | *Break (10 min)* | | |
