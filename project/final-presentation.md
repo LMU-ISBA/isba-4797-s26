@@ -8,9 +8,9 @@ Presentations take place over three days. Attendance is mandatory for all presen
 
 | Time | Project | Team Size | Advisor |
 |------|---------|-----------|---------|
-| 11:50 AM | Timothy O'Hara | 1 | Lontok |
+| 11:50 AM | Timothy O'Hara | 1 | Mukherjee |
 | 12:10 PM | Leo Chan | 1 | Lontok |
-| 12:30 PM | Andrew Winter | 1 | Mukherjee |
+| 12:30 PM | Andrew Winter | 1 | Lontok |
 | *12:50 PM* | *Break (10 min)* | | |
 | 1:00 PM | Denzel Tate | 1 | Mukherjee |
 | 1:20 PM | Academic Advisor Chatbot | 2 | Lontok |
@@ -45,7 +45,7 @@ Presentations take place over three days. Attendance is mandatory for all presen
 
 **6 presentations | ~1 hr 40 min total**
 
-**12:15 PM - 1:00 PM | Graduation Luncheon | Hilton Third-Floor Foyer**
+**12:15 PM - 1:15 PM | Graduation Luncheon | Hilton 3rd Floor Foyer**
 
 Graduation stoles will be distributed at the luncheon.
 
@@ -116,7 +116,7 @@ You must attend all presentations on the day you are presenting. If you miss any
 
 If you have a conflict with part of your presentation day, notify your advisor at least 48 hours in advance to discuss accommodations.
 
-All students are encouraged to attend the graduation luncheon on Friday, May 1 from 12:15 PM to 1:00 PM in the Hilton Third-Floor Foyer. Graduation stoles will be distributed at the luncheon.
+All students are encouraged to attend the graduation luncheon on Friday, May 1 from 12:15 PM to 1:15 PM in the Hilton 3rd Floor Foyer. Graduation stoles will be distributed at the luncheon.
 
 ---
 
