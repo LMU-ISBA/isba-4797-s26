@@ -47,6 +47,8 @@ Presentations take place over three days. Attendance is mandatory for all presen
 
 **12:15 PM - 1:00 PM | Graduation Luncheon | Hilton Third-Floor Foyer**
 
+Graduation stoles will be distributed at the luncheon.
+
 ---
 
 ## Deliverables
@@ -114,7 +116,7 @@ You must attend all presentations on the day you are presenting. If you miss any
 
 If you have a conflict with part of your presentation day, notify your advisor at least 48 hours in advance to discuss accommodations.
 
-All students are encouraged to attend the graduation luncheon on Friday, May 1 from 12:15 PM to 1:00 PM in the Hilton Third-Floor Foyer. Students will receive their graduation stoles at the luncheon.
+All students are encouraged to attend the graduation luncheon on Friday, May 1 from 12:15 PM to 1:00 PM in the Hilton Third-Floor Foyer. Graduation stoles will be distributed at the luncheon.
 
 ---
 
