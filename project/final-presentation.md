@@ -55,15 +55,17 @@ Graduation stoles will be distributed at the luncheon.
 
 | Deliverable | % of Sprint 03 | % of Total Grade | Deadline |
 |-------------|----------------|------------------|----------|
-| Practice Presentation | 15% | 6% | Week of Apr 20 - 25 |
+| Practice Presentation | 15% | 6% | Apr 27 - 28 |
 | Final Presentation | 25% | 10% | Apr 29, 30, or May 1 (your assigned day) |
 | Presentation Slides (PDF) | 10% | 4% | Wed, Apr 29 at 11:00 AM |
 
 ### Practice Presentation
 
-For Prof. Lontok's capstone advisees, schedule a 45-minute Zoom meeting for a practice run during the week of April 20 - 25. Regular weekly meetings will not occur during the weeks of practice and final presentations.
+Practice presentations take place on April 27 - 28.
 
-Submit a cloud link to a recorded Zoom practice presentation and a publicly accessible link to your slides to your assigned Teams channel before your scheduled practice session. Copy the shareable links Zoom emails you when each cloud recording is ready. You can also access the links at https://lmula.zoom.us/.
+For Prof. Lontok's capstone advisees, schedule your 45-minute live practice session on April 27 or 28 using this Calendly link: [Capstone 45-Minute Practice Presentation Meeting](https://calendly.com/greg-lontok/capstone-45-minute-practice-presentation-meeting). Regular weekly meetings will not occur during the weeks of practice and final presentations.
+
+**Before your live practice session, you must submit a recorded practice presentation.** Submit a cloud link to a recorded Zoom practice presentation and a publicly accessible link to your slides to your assigned Teams channel before your scheduled live practice. Copy the shareable links Zoom emails you when each cloud recording is ready. You can also access the links at https://lmula.zoom.us/.
 
 Use the same slides link for the final presentation.
 
