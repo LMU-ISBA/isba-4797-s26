@@ -63,7 +63,7 @@ Graduation stoles will be distributed at the luncheon.
 
 Practice presentations take place on April 27 - 28.
 
-For Prof. Lontok's capstone advisees, schedule your 45-minute live practice session on April 27 or 28 using this Calendly link: [Capstone 45-Minute Practice Presentation Meeting](https://calendly.com/greg-lontok/capstone-45-minute-practice-presentation-meeting). Regular weekly meetings will not occur during the weeks of practice and final presentations.
+For Prof. Lontok's capstone advisees, schedule your 45-minute live practice session on April 27 or 28 using this Calendly link: [Capstone 45-Minute Practice Presentation Meeting](https://calendly.com/greg-lontok/capstone-45-minute-practice-presentation-meeting). Regular weekly meetings will not occur during the week of practice and final presentations.
 
 **Before your live practice session, you must submit a recorded practice presentation.** Submit a cloud link to a recorded Zoom practice presentation and a publicly accessible link to your slides to your assigned Teams channel before your scheduled live practice. Copy the shareable links Zoom emails you when each cloud recording is ready. You can also access the links at https://lmula.zoom.us/.
 
