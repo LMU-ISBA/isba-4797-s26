@@ -51,6 +51,14 @@ Graduation stoles will be distributed at the luncheon.
 
 ---
 
+## Inviting Guests
+
+Invite your stakeholders, family, and friends to your presentation. They can attend in person or watch online via Zoom.
+
+**Zoom link:** https://lmula.zoom.us/my/lontok
+
+---
+
 ## Deliverables
 
 | Deliverable | % of Sprint 03 | % of Total Grade | Deadline |
@@ -74,6 +82,16 @@ Use the same slides link for the final presentation.
 View the full presentation schedule and post your publicly available slides link here: [Presentation Schedule](https://r.isba.co/isba-capstone-presentation-schedule-s26)
 
 We will pull your slides from this link on the presentation room computer, so make sure your link works without a sign-in.
+
+### Demo Screen Sharing
+
+If you need to present from your own laptop (for example, you have software installed locally, saved credentials, MFA, or VPN access you can't replicate on a shared machine), join the Zoom room from your laptop during your presentation slot and share your screen.
+
+**Zoom room:** https://lmula.zoom.us/my/lontok
+
+We will project the Zoom session in the presentation room so the audience sees what you share.
+
+Mark your row on the [Presentation Schedule](https://r.isba.co/isba-capstone-presentation-schedule-s26) to indicate whether you plan to screen share so we can set up the room correctly.
 
 ### Presentation Slides Submission
 
