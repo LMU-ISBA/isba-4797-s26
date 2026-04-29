@@ -55,7 +55,7 @@ Graduation stoles will be distributed at the luncheon.
 
 Invite your stakeholders, family, and friends to your presentation. They can attend in person or watch online via Zoom.
 
-**Zoom link:** https://lmula.zoom.us/my/lontok
+**Zoom link:** https://bit.ly/Sam_on_Zoom
 
 ---
 
@@ -87,7 +87,7 @@ We will pull your slides from this link on the presentation room computer, so ma
 
 If you need to present from your own laptop (for example, you have software installed locally, saved credentials, MFA, or VPN access you can't replicate on a shared machine), join the Zoom room from your laptop during your presentation slot and share your screen.
 
-**Zoom room:** https://lmula.zoom.us/my/lontok
+**Zoom room:** https://bit.ly/Sam_on_Zoom
 
 We will project the Zoom session in the presentation room so the audience sees what you share.
 
