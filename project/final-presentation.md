@@ -91,6 +91,10 @@ If you need to present from your own laptop (for example, you have software inst
 
 We will project the Zoom session in the presentation room so the audience sees what you share.
 
+**Before you screen share, close applications and browser tabs you don't need.** A loaded computer can make Zoom lag or freeze during your demo.
+
+**Also turn on Do Not Disturb mode before you share your screen.** You don't want personal notifications popping up in front of the audience mid-demo.
+
 Mark your row on the [Presentation Schedule](https://r.isba.co/isba-capstone-presentation-schedule-s26) to indicate whether you plan to screen share so we can set up the room correctly.
 
 ### Presentation Slides Submission
